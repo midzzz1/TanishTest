@@ -31,7 +31,6 @@ Paragraphs: Paragraph tags are used to enclose blocks of text.
 
 Links: Link tags are used to create clickable links to other web pages or resources. 
 They are created with the <a> tag and require an href attribute specifying the target URL.
-Example: <a> Example</a>
 
 Images: Image tags are used to embed images into a webpage. 
 They are created with the <img> tag and require a src attribute specifying the image file URL.
