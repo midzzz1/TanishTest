@@ -27,7 +27,7 @@ There are six levels of headings, from  (the most important) to (the least impor
 Example:Welcome to My Website
 
 Paragraphs: Paragraph tags are used to enclose blocks of text. 
-  They create a new paragraph with proper spacing. Example: <p>This is a paragraph of text.</p>
+  They create a new paragraph with proper spacing. Example: <p> This is a paragraph of text.</p>
 
 Links: Link tags are used to create clickable links to other web pages or resources. 
 They are created with the <a> tag and require an href attribute specifying the target URL.
@@ -36,11 +36,7 @@ Example: <a> Example</a>
 Images: Image tags are used to embed images into a webpage. 
 They are created with the <img> tag and require a src attribute specifying the image file URL.
 
-Lists: Lists are used to present information in an ordered or unordered manner. 
-There are two main types of lists: ordered lists <ol> (with numbers) and unordered lists <ul> (with bullet points).
-List items are created with the <li> tag
-
-  
+Lists: Lists are used to present information in an ordered or unordered manner.
   
  Answer 3<br>
   Simply put, the virtual DOM is a representation of a DOM object.
